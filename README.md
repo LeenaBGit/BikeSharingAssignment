@@ -1,10 +1,6 @@
 # Bike sharing Linear Regression Assignment
 > BoomBikes is a bike-sharing provider who has recently suffered considerable dips in their revenue due to the ongoing Corona pandemic. The company finds it very difficult to sustain in the current market scenario. So it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end.
 
-BoomBikes is a bike-sharing provider who wants to understand the factors on which the demand for shared bikes depends so they can come up with a mindful business plan to accelerate its revenue. The company wants to know:
-Which variables are significant in predicting the demand for shared bikes.
-How well those variables describe the bike demands
-
 
 ## Table of Contents
 * [Objective](#general-information)
@@ -13,9 +9,8 @@ How well those variables describe the bike demands
 * [Acknowledgements](#acknowledgements)
 
 
-
 ## Objective
-BoomBikes is a bike-sharing provider who wants to understand the factors on which the demand for shared bikes depends so they can come up with a mindful business plan to accelerate its revenue. The company wants to know:
+BoomBikes wants to understand the factors on which the demand for shared bikes depends so they can come up with a mindful business plan to accelerate its revenue. The company wants to know:
 - Which variables are significant in predicting the demand for shared bikes.
 - How well those variables describe the bike demands
 
