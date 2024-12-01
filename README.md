@@ -1,4 +1,4 @@
-# Bike sharing Linear Regression Assignment
+# Bike-Sharing Linear Regression Assignment
 > BoomBikes is a bike-sharing provider who has recently suffered considerable dips in their revenue due to the ongoing Corona pandemic. The company finds it very difficult to sustain in the current market scenario. So it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end.
 
 
@@ -25,9 +25,9 @@ BoomBikes wants to understand the factors on which the demand for shared bikes d
 
 ## Technologies Used
 - Python - version 3.11.4
-- Matplotlib - version 3.7.1
 - Numpy - version 1.24.3
-- Pandas - version 1.5.3
+- Pandas - version 2.0.3
+- Matplotlib - version 3.7.2
 - Seaborn - version 0.12.2
 - Statsmodels - version 0.14.0
 - Scikit-Learn - version 1.3.0
